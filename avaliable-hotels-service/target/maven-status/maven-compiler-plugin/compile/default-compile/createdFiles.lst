@@ -1,0 +1,7 @@
+com/majid/availableHotels/hotelservice/converter/besthotels/BestHotelsResponseConverterImpl.class
+com/majid/availableHotels/hotelservice/providercaller/CrazyHotelProviderCaller.class
+com/majid/availableHotels/hotelservice/AvailableHotelsApplication.class
+com/majid/availableHotels/hotelservice/controller/AvailableHotelsController.class
+com/majid/availableHotels/hotelservice/converter/crazyhotels/CrazyHotelResponseConverterImpl.class
+com/majid/availableHotels/hotelservice/usecase/AvailableHotelsUsecase.class
+com/majid/availableHotels/hotelservice/providercaller/BestHotelProviderCaller.class

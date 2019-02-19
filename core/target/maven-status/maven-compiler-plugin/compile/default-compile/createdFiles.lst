@@ -1,0 +1,11 @@
+com/majid/availableHotels/hotelservice/bean/request/Request.class
+com/majid/availableHotels/hotelservice/bean/response/Respone.class
+com/majid/availableHotels/hotelservice/bean/Converter.class
+com/majid/availableHotels/hotelservice/bean/response/CrazyHotelsResponse.class
+com/majid/availableHotels/hotelservice/bean/Usecase.class
+com/majid/availableHotels/hotelservice/bean/ProvidersResult.class
+com/majid/availableHotels/hotelservice/bean/ProviderCaller.class
+com/majid/availableHotels/hotelservice/bean/request/RequestHotel.class
+com/majid/availableHotels/hotelservice/bean/dto/Hotle.class
+com/majid/availableHotels/hotelservice/bean/response/BestHotelsResponse.class
+com/majid/availableHotels/hotelservice/bean/response/ResponseHotel.class

@@ -1,0 +1,4 @@
+com/majid/availableHotels/hotelservice/BestHotelsApplication.class
+com/majid/availableHotels/hotelservice/usecase/BestHotelUsecase.class
+com/majid/availableHotels/hotelservice/controller/BestHotelController.class
+com/majid/availableHotels/hotelservice/repository/BestHotelRepository.class

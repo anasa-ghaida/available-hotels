@@ -1,0 +1,4 @@
+com/majid/availableHotels/hotelservice/usecase/CrazyHotelUsecase.class
+com/majid/availableHotels/hotelservice/CrazyHotelsApplication.class
+com/majid/availableHotels/hotelservice/repository/CrazyHotelRepository.class
+com/majid/availableHotels/hotelservice/controller/CrazyHotelsController.class

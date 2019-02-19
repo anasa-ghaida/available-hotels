@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/available-hotels.iml" filepath="$PROJECT_DIR$/available-hotels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avaliable-hotels-service/avaliable-hotels-service.iml" filepath="$PROJECT_DIR$/avaliable-hotels-service/avaliable-hotels-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/best-hotel/best-hotel.iml" filepath="$PROJECT_DIR$/best-hotel/best-hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crazy-hotel/crazy-hotel.iml" filepath="$PROJECT_DIR$/crazy-hotel/crazy-hotel.iml" />
+    </modules>
+  </component>
+</project>
